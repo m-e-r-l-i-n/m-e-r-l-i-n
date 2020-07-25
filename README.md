@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+![test image 1](https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/pp.jpg)
 I am **Tamonash**.
+
 I am into competitive programming and I love solving puzzles and problems.
+
 Support me and wish me luck as I code my way up! :smiley: :smiley:	
 
 
