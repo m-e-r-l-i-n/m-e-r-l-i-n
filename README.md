@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am **Tamonash**.
+I am into competitive programming and I love solving puzzles and problems.
+Support me and wish me luck as I code my way up! :smiley: :smiley:	
+
+
 <!--
 **m-e-r-l-i-n/m-e-r-l-i-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
