@@ -4,10 +4,10 @@
 
 I am **Tamonash**.
 
-- 🔭 I’m currently a student
-- 🌱 I’m currently learning B. Tech in Computer Science and Engineering
-- I am into competitive programming and I love solving puzzles and algorithmic problems.
-- 👯 I’m looking to collaborate on open source projects
+- :bowtie: I'm currently a student
+- ⚡ I'm currently learning B. Tech in Computer Science and Engineering
+- :heartpulse: I'm into competitive programming and I love solving puzzles and algorithmic problems.
+- 👯 I'm looking to collaborate on open source projects
 
 Support me and wish me luck as I code my way up! :smiley: :smiley:	
 <!--
