@@ -4,7 +4,7 @@
 
 I am **Tamonash**.
 
-- :bowtie: I'm currently a student
+- :bowtie: I'm a student
 - ⚡ I'm currently learning B. Tech in Computer Science and Engineering
 - :heartpulse: I'm into competitive programming and I love solving puzzles and algorithmic problems.
 - 👯 I'm looking to collaborate on open source projects
