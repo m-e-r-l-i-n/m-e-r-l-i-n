@@ -22,8 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-{{ STARS }}
-{{ ACCOUNT_AGE }}
-{{ ISSUES }}
-{{ PULL_REQUESTS }}
-{{ COMMITS }}
