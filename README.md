@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ---
 
 
-  <summary>:zap: Github Stats</summary>
+  <summary>💬 Github Stats</summary>
 
   <img align="left" alt="m-e-r-l-i-n Github Stats" src="https://github-readme-stats.vercel.app/api?username=m-e-r-l-i-n&show_icons=true&hide_border=true" />
