@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![test image 1](https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/pp.jpg)
+![test image 1](https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/tenor.gif)
 
 I am **Tamonash**.
 
