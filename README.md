@@ -6,7 +6,7 @@ I am **Tamonash**.
 
 - :bowtie: I'm a student
 - ⚡ I'm currently learning B. Tech in Computer Science and Engineering
-- :heartpulse: I'm into competitive programming and I love solving puzzles and algorithmic problems.  <img align="right" src="https://cp-logo.vercel.app/codechef/tamo11" />  <img align="left" src="https://cp-logo.vercel.app/codeforces/chris_11" />   <img align="left" src="https://cp-logo.vercel.app/atcoder/merlin" />  
+- :heartpulse: I'm into competitive programming and I love solving puzzles and algorithmic problems.  <img align="right" src="https://cp-logo.vercel.app/codechef/tamo11" />  <img align="right" src="https://cp-logo.vercel.app/codeforces/chris_11" />   <img align="right" src="https://cp-logo.vercel.app/atcoder/merlin" />  
 - 👯 I'm looking to collaborate on open source projects
 
 Support me and wish me luck as I code my way up! :smiley: :smiley:	
