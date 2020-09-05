@@ -10,7 +10,8 @@ I am **Tamonash**.
 - 👯 I'm looking to collaborate on open source projects
 
 Support me and wish me luck as I code my way up! :smiley: :smiley:	
-https://cp-logo.vercel.app/codechef/tamo11  https://cp-logo.vercel.app/codeforces/chris_11  https://cp-logo.vercel.app/atcoder/merlin
+
+<img align="left" src="https://cp-logo.vercel.app/codechef/tamo11" />   <img align="left" src="https://cp-logo.vercel.app/codeforces/chris_11" />   <img align="left" src="https://cp-logo.vercel.app/atcoder/merlin" />
 <!--
 **m-e-r-l-i-n/m-e-r-l-i-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
