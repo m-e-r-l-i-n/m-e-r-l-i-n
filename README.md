@@ -14,12 +14,12 @@ I am **Tamonash**.
 Support me and wish me luck as I code my way up! :smiley: :smiley:	
 
 <hr>
-# my competitive profiles-
+ # my competitive profiles-
 
-<img align="left" src="https://cp-logo.vercel.app/codechef/tamo11" /> \ 
-<img align="left" src="https://cp-logo.vercel.app/codeforces/chris_11" />\   
-<img align="left" src="https://cp-logo.vercel.app/atcoder/merlin" />  \
-<img align="left" src="https://cp-logo.vercel.app/topcoder/_merlin_" />\  
+ <img align="left" src="https://cp-logo.vercel.app/codechef/tamo11" />\ 
+ <img align="left" src="https://cp-logo.vercel.app/codeforces/chris_11" />\   
+ <img align="left" src="https://cp-logo.vercel.app/atcoder/merlin" />\
+ <img align="left" src="https://cp-logo.vercel.app/topcoder/_merlin_" />\  
 
 
 <!--
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <hr>
 
 <p align="center">
