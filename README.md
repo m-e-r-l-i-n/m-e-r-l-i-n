@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-e-r-l-i-n&show_icons=true&title_color=000000&icon_color=ccccccf&text_color=000000&bg_color=ffffff" width="75%" />	
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=m-e-r-l-i-n&&show_icons=true&title_color=000000&icon_color=ccccccf&text_color=000000&bg_color=ffffff" width="75%"/>
+</p>
