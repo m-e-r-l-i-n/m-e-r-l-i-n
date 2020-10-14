@@ -22,6 +22,7 @@ Support me and wish me luck as I code my way up! :smiley: :smiley:
 <img align="left" src="https://cp-logo.vercel.app/atcoder/merlin" />  
 <img align="left" src="https://cp-logo.vercel.app/topcoder/_merlin_" />  
 
+
 <!--
 **m-e-r-l-i-n/m-e-r-l-i-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,11 +35,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ---
 
 
 # <summary>💬 Github Stats</summary>
 
-<p align="center">
-<src="https://github-readme-stats.vercel.app/api?username=m-e-r-l-i-n&show_icons=true&title_color=000000&icon_color=ccccccf&text_color=000000&bg_color=ffffff" width="75%" />
-</p>	
+ <p align="center">
+    <src="https://github-readme-stats.vercel.app/api?username=m-e-r-l-i-n&show_icons=true&title_color=000000&icon_color=ccccccf&text_color=000000&bg_color=ffffff" width="75%" />
+ </p>	
