@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
-
 <p align="center">
 <a href="https://github.com/m-e-r-l-i-n">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-e-r-l-i-n&theme=dark&hide_langs_below=1 />
