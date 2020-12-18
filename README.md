@@ -1,10 +1,5 @@
-<div align="center">
-	<body>
-    <img src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/readme2.gif">
-    </body>
-</div>
+<h1 align="center">Hello everyone 👋, I am Tamonash.</h1>
 
-I am **Tamonash**.
 
 - :bowtie: I'm a student
 - ⚡ I'm currently learning B. Tech in Computer Science and Engineering
