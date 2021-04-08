@@ -13,8 +13,8 @@ Support me and wish me luck as I code my way up! :smiley: :smiley:
 <p align="center">
   <a href="https://www.codechef.com/users/tamo11"><img alt="Codechef" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codechef.jpg" /></a> 
   &emsp;
-  <a href="https://codeforces.com/profile/_merlin_"><img alt=" Codeforces" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codeforces.png" /></a>
-  &emsp;
+  <a href="https://codeforces.com/profile/_merlin_"><img alt=" Codeforces" width="75px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codeforces.png" /></a>
+  &nbsp;
   <a href="https://atcoder.jp/users/merlin"><img alt=" Atcoder" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/atcoder.png" /></a>
   &emsp;
   <a href="https://www.topcoder.com/members/_merlin_/"><img alt=" TopCoder" width="175px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/topcoder.png" /></a>
