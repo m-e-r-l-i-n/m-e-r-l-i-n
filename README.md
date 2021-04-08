@@ -56,10 +56,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/m-e-r-l-i-n"><img alt=" GitHub" width="22px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/github.svg" /></a>
     <a href="mailto:tamonashchakraborty11@gmail.com"><img alt=" Mail" width="22px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/email.svg" /></a>
   </p>
-
-  <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=m-e-r-l-i-n&color=439975&style=flat-square">
-  </p>
 </p>
 
 Support me and wish me luck as I code my way up! :smiley: :smiley:	
