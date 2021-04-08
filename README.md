@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone 👋, I am Tamonash.</h1>
+<h1 align="left">Hello everyone 👋, I am Tamonash.</h1>
 
 
 - :bowtie: I'm a student
@@ -6,9 +6,8 @@
 - :heartpulse: I'm into competitive programming and I love solving puzzles and algorithmic problems.  
 - 👯 I'm looking to collaborate on open source projects
 
-Support me and wish me luck as I code my way up! :smiley: :smiley:	
 
-# my competitive profiles-
+### Have a look at my competitive profiles-
 
 <p align="center">
   <a href="https://www.codechef.com/users/tamo11"><img alt="Codechef" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codechef.png" /></a> 
@@ -17,7 +16,7 @@ Support me and wish me luck as I code my way up! :smiley: :smiley:
   &nbsp;
   <a href="https://atcoder.jp/users/merlin"><img alt=" Atcoder" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/atcoder.png" /></a>
   &emsp;
-  <a href="https://www.topcoder.com/members/_merlin_/"><img alt=" TopCoder" width="175px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/topcoder.png" /></a>
+  <a href="https://www.topcoder.com/members/_merlin_/"><img alt=" TopCoder" width="75px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/topcoder.png" /></a>
   &emsp;
   <a href="https://www.spoj.com/users/merlin__/"><img alt=" Spoj" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/spoj.png" /></a>
   &emsp;
@@ -62,3 +61,5 @@ Here are some ideas to get you started:
     <img align="center" src="https://komarev.com/ghpvc/?username=m-e-r-l-i-n&color=439975&style=flat-square">
   </p>
 </p>
+
+Support me and wish me luck as I code my way up! :smiley: :smiley:	
