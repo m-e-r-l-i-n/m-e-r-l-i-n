@@ -10,7 +10,7 @@ Support me and wish me luck as I code my way up! :smiley: :smiley:
 
 # my competitive profiles-
 
-- <img align="left" src="https://cp-logo.vercel.app/codechef/tamo11" /> 
+- <a href="https://www.codechef.com/users/tamo11"><img alt="Codechef" width="22px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codechef-1324440139527402917.png" /></a>
 - <img align="left" src="https://cp-logo.vercel.app/codeforces/chris_11" />   
 - <img align="left" src="https://cp-logo.vercel.app/atcoder/merlin" />
 - <img align="left" src="https://cp-logo.vercel.app/topcoder/_merlin_" />
