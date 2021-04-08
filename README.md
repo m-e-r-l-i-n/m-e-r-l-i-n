@@ -11,7 +11,7 @@ Support me and wish me luck as I code my way up! :smiley: :smiley:
 # my competitive profiles-
 
 <p align="center">
-  <a href="https://www.codechef.com/users/tamo11"><img alt="Codechef" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codechef.jpg" /></a> 
+  <a href="https://www.codechef.com/users/tamo11"><img alt="Codechef" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codechef.png" /></a> 
   &emsp;
   <a href="https://codeforces.com/profile/_merlin_"><img alt=" Codeforces" width="75px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/codeforces.png" /></a>
   &nbsp;
@@ -19,7 +19,7 @@ Support me and wish me luck as I code my way up! :smiley: :smiley:
   &emsp;
   <a href="https://www.topcoder.com/members/_merlin_/"><img alt=" TopCoder" width="175px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/topcoder.png" /></a>
   &emsp;
-  <a href="https://www.spoj.com/users/merlin__/"><img alt=" Spoj" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/spoj.jpeg" /></a>
+  <a href="https://www.spoj.com/users/merlin__/"><img alt=" Spoj" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/spoj.png" /></a>
   &emsp;
   <a href="https://leetcode.com/_merlin_/"><img alt=" Leetcode" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/leetcode.png" /></a>
   &emsp;
