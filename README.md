@@ -26,7 +26,7 @@
   &emsp;
   <a href="https://www.hackerearth.com/@merlin_"><img alt=" Hackerearth" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/hackerearth.png" /></a>
   &emsp;
-  <a href="https://toph.co/u/merIin"><img alt=" Toph" width="70px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/toph.png" /></a>
+  <a href="https://toph.co/u/merIin"><img alt=" Toph" width="60px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/toph.png" /></a>
   &emsp;
   <a href="https://tlx.toki.id/profiles/merlin"><img alt=" TLX" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/tlx.png" /></a>
 </p>
