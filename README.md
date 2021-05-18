@@ -29,6 +29,8 @@
   <a href="https://toph.co/u/merIin"><img alt=" Toph" width="60px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/toph.png" /></a>
   &emsp;
   <a href="https://tlx.toki.id/profiles/merlin"><img alt=" TLX" width="50px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/tlx.png" /></a>
+  &emsp;
+  <a href="https://open.kattis.com/users/merlin"><img alt=" Kattis" width="60px" src="https://github.com/m-e-r-l-i-n/m-e-r-l-i-n/blob/master/dependencies/kattis.png" /></a>
 </p>
 
 <!--
